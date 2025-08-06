@@ -29,14 +29,14 @@
 - 형상관리를 위한 깃허브 규칙
 1. `무조건!!` git pull부터 한다. pull을 진행했을때 문제 디렉토리가 만들어지지 않는다면 직접 만들기
 ```bash
-$ git pull <remote 이름> master
+$ git pull <remote 이름> main
 ```
 
 2. 파일 업로드 규칙에 맞게 파일을 업로드한다.
 ```bash
 $ git add .
 $ git commit -m "BOJ_1900_유규봉"
-$ git push <remote 이름> master
+$ git push <remote 이름> main
 ```
 
 ## 🗓️ 알고리즘 스터디 기록
