@@ -8,9 +8,7 @@ public class BOJ_14681_박정현 {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println();
 		int x = scanner.nextInt();
-		System.out.println();
 		int y = scanner.nextInt();
 		
 		if (x > 0) {
