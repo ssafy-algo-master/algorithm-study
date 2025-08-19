@@ -33,9 +33,16 @@ $ git pull <remote 이름> main
 ```
 
 2. 파일 업로드 규칙에 맞게 파일을 업로드한다.
+2.1. 파일 한개 업로드시
 ```bash
 $ git add .
 $ git commit -m "BOJ_1900_유규봉"
+$ git push <remote 이름> main
+```
+2.2. 파일 여러개 업로드시
+```bash
+$ git add .
+$ git commit -m "1주차스터디_풀이_유규봉"
 $ git push <remote 이름> main
 ```
 
