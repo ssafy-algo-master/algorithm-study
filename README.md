@@ -48,6 +48,6 @@ $ git push <remote 이름> main
 
 ## 🗓️ 알고리즘 스터디 기록
 |날짜|개념|문제|
-|-----|-----|-----|
+|-------|-------|-----|
 |2025-08-07(목)|조건문|(필수) BOJ_14681, BOJ_2753<br>(선택) BOJ_3003, BOJ_10988|
 |2025-08-21(목)|1차원배열|[개수 세기](https://www.acmicpc.net/problem/10807), [X보다 작은 수](https://www.acmicpc.net/problem/10871), [최소, 최대](https://www.acmicpc.net/problem/10871), [최댓값](https://www.acmicpc.net/problem/2562), [공 넣기](https://www.acmicpc.net/problem/10810), [공 바꾸기](https://www.acmicpc.net/problem/10813) [과제 안내신분..?](https://www.acmicpc.net/problem/5597), [나머지](https://www.acmicpc.net/problem/3052), [바구니 뒤집기](https://www.acmicpc.net/problem/10811), [평균](https://www.acmicpc.net/problem/1546)|
