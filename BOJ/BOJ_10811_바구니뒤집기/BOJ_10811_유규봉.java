@@ -15,7 +15,15 @@ public class BOJ_10811_유규봉 {
 		for(int i = 1; i <= N; i++) {
 			arr[i-1] = i;
 		}
-		
+
+		N = 5
+		입력: 2 4
+		left = 1;
+		right = 3;
+		arr = [1, 4, 3, 2, 5]
+		// 목표
+		tmp = [2, 3, 4]
+			
 		for(int t = 1; t <= M; t++) {
 			int left = sc.nextInt() - 1;	// 역순으로 변경할 바구니 시작 번호
 			int right = sc.nextInt() - 1;	// 역순으로 변경할 바구니 마지막 번호
